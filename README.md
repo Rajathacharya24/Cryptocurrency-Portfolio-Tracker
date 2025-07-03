@@ -33,8 +33,21 @@ Built using **Java 11** and the built-in `HttpClient` for web API integration.
 
 - Java 11+
 - Java `HttpClient`
-- JSON parsing (optional: `org.json`, `Gson`, or `Jackson`)
-- CoinGecko API
+- JSON parsing (`org.json`, `Gson`, or `Jackson`)
+- CoinGecko Public API
+
+---
+
+## 🔧 Used Tools
+
+| Tool                    | Purpose                                           |
+|-------------------------|---------------------------------------------------|
+| Java SDK (11+)          | Core development language                         |
+| VS Code / IntelliJ IDE | Code editing and project structure                |
+| Terminal / CMD          | Running the CLI application                       |
+| [CoinGecko API](https://www.coingecko.com/en/api) | Fetching real-time crypto prices              |
+| Git & GitHub            | Version control and project hosting               |
+| JSON Library (Gson or org.json) | Parsing the JSON response from API calls       |
 
 ---
 
